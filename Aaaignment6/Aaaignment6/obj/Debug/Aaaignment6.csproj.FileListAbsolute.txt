@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\Aaaignment6\Aaaignment6\obj\Debug\Aaaignment6.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Aaaignment6\Aaaignment6\bin\Debug\Aaaignment6.exe.config
+C:\Users\DELL\source\repos\Aaaignment6\Aaaignment6\bin\Debug\Aaaignment6.exe
+C:\Users\DELL\source\repos\Aaaignment6\Aaaignment6\bin\Debug\Aaaignment6.pdb
+C:\Users\DELL\source\repos\Aaaignment6\Aaaignment6\obj\Debug\Aaaignment6.exe
+C:\Users\DELL\source\repos\Aaaignment6\Aaaignment6\obj\Debug\Aaaignment6.pdb
